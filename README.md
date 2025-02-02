@@ -134,28 +134,4 @@ docker-compose down
 
 ---
 
-## Contribution Guidelines
-
-1. **Fork** the repository.
-2. Create a **feature branch** (`feat-new-feature`).
-3. Follow **conventional commits**:
-   - `feat: Add new translation support`
-   - `fix: Improve Redis caching`
-   - `docs: Update API documentation`
-4. **Submit a Pull Request (PR)**.
-
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## Contact
-
-For any issues, open an **issue** in the repository or contact **@shobhitsinha-25**.
-
----
-
 ### 🚀 Happy Coding! 🎯
